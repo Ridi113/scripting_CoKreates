@@ -1,6 +1,0 @@
-{
-    "db_version": [
-        "PostgreSQL 9.2.24 on x86_64-redhat-linux-gnu, compiled by gcc (GCC) 4.8.5 20150623 (Red Hat 4.8.5-28), 64-bit"
-    ], 
-    "hello": "hi"
-}
